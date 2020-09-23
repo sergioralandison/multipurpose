@@ -12,7 +12,7 @@
 
     <header>
       <nav>
-          <div class="">
+          <div id="logo">
             <img src="" alt="">Lybra
           </div>
           <div class="">
@@ -37,4 +37,51 @@
         <input type="text" name="" value="" placeholder="+86 700">
         <button type="button" name="contact">CONTACT ME</button>
       </form>
+
+      <div id="main-photo">
+        <img src="images/main-photo-vdesktop.png" alt="">
+      </div>
     </header>
+
+    <!-- grid layout -->
+
+    <section>
+      <div class="">
+        <p>LUXURY DESIGN</p>
+        <h1>Perfect circles and <br> Rectangles</h1>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting <br>
+          industry. Lorem Ipsum has been the industry's standard dummy text <br>
+          ever since the 1500s, when an unkno
+        </p>
+      </div>
+
+      <aside class="">
+        <div class="">
+          <h4>Easy Interface</h4>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever sinc</p>
+        <div class="">
+          <h4>Shortcode Manager</h4>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever sinc</p>
+        </div>
+        <div class="">
+          <h4>Solid Code</h4>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever sinc</p>
+        </div>
+        <div class="">
+          <h4>Premium Design</h4>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever sinc</p>
+        </div>
+        <div class="">
+          <h4>Favorites</h4>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever sinc</p>
+        </div>
+        <div class="">
+          <h4>Updates</h4>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever sinc</p>
+        </div>
+      </aside>
+    </section>
+
+    <section>
+      
+    </section>
