@@ -12,7 +12,7 @@
 
     <header>
       <nav>
-          <div id="logo">
+          <div id="icon">
             <img src="" alt="">Lybra
           </div>
           <div class="">
@@ -33,8 +33,8 @@
         </p>
       </div>
 
-      <form class="" action="index.html" method="post">
-        <input type="text" name="" value="" placeholder="+86 700">
+      <form class="" action="" method="post">
+        <input type="number" name="" value="" placeholder="+86 700">
         <button type="button" name="contact">CONTACT ME</button>
       </form>
 
@@ -191,14 +191,14 @@
       </aside>
 
       <!-- articles -->
-      
+
       <article class="">
         <div class="">
           <img src="images/man_5.png" alt="">
         </div>
         <div class="">
-          <img src="images/logo-date.png" alt=""> <p>10 FEB 2018</p>
-          <img src="images/logo-id.png" alt=""> <p>CEO</p>
+          <img src="images/icon-date.png" alt=""> <p>10 FEB 2018</p>
+          <img src="images/icon-id.png" alt=""> <p>CEO</p>
           <p>Collection with gift on which until accounts</p>
           <p>Read More</p>
         </div>
@@ -209,8 +209,8 @@
           <img src="images/man_6.png" alt="">
         </div>
         <div class="">
-          <img src="images/logo-date.png" alt=""> <p>10 FEB 2018</p>
-          <img src="images/logo-id.png" alt=""> <p>CEO</p>
+          <img src="images/icon-date.png" alt=""> <p>10 FEB 2018</p>
+          <img src="images/icon-id.png" alt=""> <p>CEO</p>
           <p>Collection with gift on which until accounts</p>
           <p>Read More</p>
         </div>
@@ -221,12 +221,10 @@
           <img src="images/woman_4.png" alt="">
         </div>
         <div class="">
-          <img src="images/logo-date.png" alt=""> <p>10 FEB 2018</p>
-          <img src="images/logo-id.png" alt=""> <p>CEO</p>
+          <img src="images/icon-date.png" alt=""> <p>10 FEB 2018</p>
+          <img src="images/icon-id.png" alt=""> <p>CEO</p>
           <p>Collection with gift on which until accounts</p>
           <p>Read More</p>
         </div>
       </article>
-
-
     </section>
