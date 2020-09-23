@@ -26,7 +26,7 @@
 
       <div class="">
         <p>MULTIPURPOSE</p>
-        <h1>Corporate <br></h1>
+        <h2>Corporate XD Template</h2>
         <p>
           Will It be used for your home, your office or perhaps even <br>
           your home office combo?
@@ -43,17 +43,19 @@
       </div>
     </header>
 
-    <!-- grid layout -->
+    <!-- section A -->
 
     <section>
       <div class="">
         <p>LUXURY DESIGN</p>
-        <h1>Perfect circles and <br> Rectangles</h1>
+        <h2>Perfect circles and Rectangles</h2>
         <p>Lorem Ipsum is simply dummy text of the printing and typesetting <br>
           industry. Lorem Ipsum has been the industry's standard dummy text <br>
           ever since the 1500s, when an unkno
         </p>
       </div>
+
+      <!-- grid layout -->
 
       <aside class="">
         <div class="">
@@ -82,6 +84,41 @@
       </aside>
     </section>
 
+    <!-- section B -->
+
     <section>
-      
+      <video src="">
+
+      </video>
+      <aside class="">
+        <p>YOU SHOULD TO SEE</p>
+        <h2>Carefully crafted with love to small things</h2>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unkno</p>
+        <form class="" action="" method="post">
+          <button type="button" name="contactUs">CONTACT US</button>
+        </form>
+      </aside>
     </section>
+
+    <!-- section C-->
+
+    <section>
+      <div class="">
+        <p>USEFUL INFORMATION</p>
+        <h2>Upcoming Events</h2>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unkno</p>
+      </div>
+
+      <aside class="">
+        <div class="">Sunday, 25 September 2018</div>
+        <div class="">Sunday, 25 September 2018</div>
+        <div class="">Sunday, 25 September 2018</div>
+        <div class="">Sunday, 25 September 2018</div>
+        <div class="">Sunday, 25 September 2018</div>
+        <div class="">Sunday, 25 September 2018</div>
+      </aside>
+    </section>
+
+    <div class="">
+
+    </div>
