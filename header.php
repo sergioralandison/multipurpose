@@ -119,6 +119,114 @@
       </aside>
     </section>
 
-    <div class="">
+    <br>
+    <br>
+    <br>
+    <br>
 
-    </div>
+    <section>
+      <img src="images/guillemets.png" alt="">
+      <p>Failure will never overtake me if my determination to succeed is strong enough.</p>
+      <p>OG Mandino</p>
+      <img src="images/man.png" alt="">
+    </section>
+
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!-- team section -->
+
+    <section>
+      <p>HUMAN BEINGS</p>
+      <h2>Our awesome team</h2>
+
+      <aside class="">
+        <div class="">
+          <img src="images/man_2.png" alt="">
+          <h4>Leron Walton</h4>
+          <p>Chief Analytics Officer</p>
+        </div>
+        <div class="">
+          <img src="images/man_3.png" alt="">
+          <h4>Leron Walton</h4>
+          <p>Chief Analytics Officer</p>
+        </div>
+        <div class="">
+          <img src="images/woman.png" alt="">
+          <h4>Leron Walton</h4>
+          <p>Chief Analytics Officer</p>
+        </div>
+        <div class="">
+          <img src="images/woman_2.png" alt="">
+          <h4>Leron Walton</h4>
+          <p>Chief Analytics Officer</p>
+        </div>
+        <div class="">
+          <img src="images/woman_3.png" alt="">
+          <h4>Leron Walton</h4>
+          <p>Chief Analytics Officer</p>
+        </div>
+        <div class="">
+          <img src="images/man_2.png" alt="">
+          <h4>Leron Walton</h4>
+          <p>Chief Analytics Officer</p>
+        </div>
+      </aside>
+    </section>
+
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!-- publication section -->
+
+    <section>
+      <aside class="">
+        <p>PUBLICATION</p>
+        <h2>Latest posts</h2>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unkno</p>
+      </aside>
+
+      <!-- articles -->
+      
+      <article class="">
+        <div class="">
+          <img src="images/man_5.png" alt="">
+        </div>
+        <div class="">
+          <img src="images/logo-date.png" alt=""> <p>10 FEB 2018</p>
+          <img src="images/logo-id.png" alt=""> <p>CEO</p>
+          <p>Collection with gift on which until accounts</p>
+          <p>Read More</p>
+        </div>
+      </article>
+
+      <article class="">
+        <div class="">
+          <img src="images/man_6.png" alt="">
+        </div>
+        <div class="">
+          <img src="images/logo-date.png" alt=""> <p>10 FEB 2018</p>
+          <img src="images/logo-id.png" alt=""> <p>CEO</p>
+          <p>Collection with gift on which until accounts</p>
+          <p>Read More</p>
+        </div>
+      </article>
+
+      <article class="">
+        <div class="">
+          <img src="images/woman_4.png" alt="">
+        </div>
+        <div class="">
+          <img src="images/logo-date.png" alt=""> <p>10 FEB 2018</p>
+          <img src="images/logo-id.png" alt=""> <p>CEO</p>
+          <p>Collection with gift on which until accounts</p>
+          <p>Read More</p>
+        </div>
+      </article>
+
+
+    </section>
