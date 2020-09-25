@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8"/>
     <title>Multipurpose Theme</title>
-    <link rel="stylesheet" href="assets/main.css">
+    <link rel="stylesheet" href="assets/style.css">
   </head>
 
   <body>
@@ -12,35 +12,33 @@
 
     <header>
       <nav>
-          <div id="icon">
-            <img src="" alt="">Lybra
-          </div>
-          <div class="">
-            <a href="#">DEMOS</a>
-            <a href="#">PAGES</a>
-            <a href="#">ELEMENTS</a>
-            <a href="#">BLOG</a>
-            <a href="#">CONTACTS</a>
-          </div>
+        <div> <img src="" alt="">Lybra</div>
+        <div>
+          <a href="#">DEMOS</a>
+          <a href="#">PAGES</a>
+          <a href="#">ELEMENTS</a>
+          <a href="#">BLOG</a>
+          <a href="#">CONTACTS</a>
+        </div>
       </nav>
 
-      <div class="">
-        <p>MULTIPURPOSE</p>
-        <h2>Corporate XD Template</h2>
-        <p>
-          Will It be used for your home, your office or perhaps even <br>
-          your home office combo?
-        </p>
-      </div>
+      <section id="first-section">
+        <aside class="aside-text">
+          <p>MULTIPURPOSE</p>
+          <h2>Corporate XD Template</h2>
+          <p>
+            Will It be used for your home, your office or perhaps even <br>
+            your home office combo?
+          </p>
 
-      <form class="" action="" method="post">
-        <input type="number" name="" value="" placeholder="+86 700">
-        <button type="button" name="contact">CONTACT ME</button>
-      </form>
+          <form class="" action="" method="post">
+            <input type="number" name="" value="" placeholder="+86 700">
+            <button type="button" name="contact">CONTACT ME</button>
+          </form>
+        </aside>
 
-      <div id="main-photo">
-        <img src="images/main-photo-vdesktop.png" alt="">
-      </div>
+        <div id="main-photo"> <img src="images/main-photo-vdesktop.png" alt=""> </div>
+      </section>
     </header>
 
     <!-- section A -->
